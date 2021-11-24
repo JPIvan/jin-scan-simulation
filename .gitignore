@@ -1,0 +1,4 @@
+data/
+dist/
+src/jin_scan_simulation.egg-info/
+*.pyc
