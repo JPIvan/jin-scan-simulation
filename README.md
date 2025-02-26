@@ -33,8 +33,6 @@ data/
 |-run1k_1.npy
 ```
 
-*The data used to generate the example figures is available on request. If you are aware of a good way to host data for machine learning reproducibility please let me know.*
-
 In each of these files we expect to find an array of shape `(n_polygons, n_vertices, 2)`.
 The polygons in these files should all have the same number of vertices (i.e. the arrays should not be ragged).
 For each polygon we have `n_vertices` pairs of `x` and `y` coordinates.
